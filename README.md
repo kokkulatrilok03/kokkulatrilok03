@@ -45,7 +45,7 @@ Real-time IPL match and team statistics with React Router and custom routes.
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/kokkulatrilok)  
-- 🌐 [Portfolio](https://your-portfolio-url.com)  
+- 🌐 [Portfolio]([https://your-portfolio-url.com](https://trilokportfolio.ccbp.tech/))  
 - ✉️ kokkulatrilok01@gmail.com  
 
 Thanks for visiting! Feel free to star ⭐ any project you find interesting or fork & collaborate 🤝
